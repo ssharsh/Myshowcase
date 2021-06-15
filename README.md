@@ -6,5 +6,5 @@ Some of them are car tire, wooden chair, fidget spinner.
 I also made a website with a team. Which is called ycs. 
 I have attached the link to it below. 
 https://tinyurl.com/79pwzp2k
-Let me know what you guys think of all the 3D models I have made. I would appreciate any comments. 
+Let me know what you guys think of all the 3D models I have made. I would appreciate the comments/feedback that you guys would give me. 
 
