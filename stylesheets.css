@@ -39,4 +39,15 @@ h6 {
 text-align: left;
 color: blue 
 font size: 11px; 
-  
+header li {
+list-style: none;
+  }
+  a:link a:visted {
+  background-color: blue;
+  text-decoration: none;
+  border: 1px solid blue;
+  display: block;
+  width: 200px;
+  text-align: center; 
+  margin-bottom: 1px;
+  }
